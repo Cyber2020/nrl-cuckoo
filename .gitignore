@@ -1,3 +1,6 @@
+venv/
+modules/
+
 # Ignore Cuckoo Database
 db/cuckoo.db
 
