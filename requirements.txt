@@ -1,5 +1,5 @@
 bson==0.5.8
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 Django==1.11.20
 dnspython==1.16.0
